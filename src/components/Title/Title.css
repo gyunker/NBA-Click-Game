@@ -1,0 +1,22 @@
+.title {
+  width: 100%;
+  text-align: center;
+  font-size: 35px;
+  color: #2A77AE;
+  padding-top: 10px;
+  background-color: rgb(255, 255, 255);
+  box-shadow: 0 3px 6px #999, 0 3px 6px #999;
+  font-family: 'Kodchasan', sans-serif;
+}
+
+.score {
+  width: 100%;
+  text-align: center;
+  font-size: 25px;
+  color: rgb(249, 249, 250);
+  margin-top:7px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  background-color: rgb(13, 2, 46);
+  font-family: 'Kodchasan', sans-serif;
+}

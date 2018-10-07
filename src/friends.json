@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "name": "Steph",
+    "image": "https://images.newrepublic.com/bcf66e9bf012b985a58c8ca5ce9ccd1a2b7e1b50.jpeg?w=1200&q=65&dpi=2.625&fm=pjpg&fit=crop&crop=faces&h=800",
+    "occupation": "Splash Bro",
+    "location": 2
+  },
+  {
+    "id": 2,
+    "name": "Lebron",
+    "image": "https://cdn.vox-cdn.com/thumbor/6gYYdP5eJckeU5U4fccLYB0XboY=/0x0:4932x3288/1200x800/filters:focal(2118x744:2906x1532)/cdn.vox-cdn.com/uploads/chorus_image/image/57815767/usa_today_10448895.0.jpg",
+    "occupation": "King",
+    "location": 1
+  },
+  {
+    "id": 3,
+    "name": "Kyrie",
+    "image": "https://cdn.vox-cdn.com/thumbor/wsH8NXAk7YKaU1HAPPyoQoldU4w=/0x0:3267x2178/1200x800/filters:focal(1373x828:1895x1350)/cdn.vox-cdn.com/uploads/chorus_image/image/59785023/usa_today_10702185.0.jpg",
+    "occupation": "Cashier",
+    "location": 3
+  },
+  {
+    "id": 4,
+    "name": "Harden",
+    "image": "https://cdn.vox-cdn.com/thumbor/KugKfDE_MhixQhr3Vm-vfdeDcrU=/0x0:3402x2268/1200x800/filters:focal(1049x253:1593x797)/cdn.vox-cdn.com/uploads/chorus_image/image/57914597/877603292.jpg.0.jpg",
+    "occupation": "Beard",
+    "location": 4
+  },
+  {
+    "id": 5,
+    "name": "KD",
+    "image": "https://cdn.vox-cdn.com/thumbor/9wWJYNDVA9EjMF8X6vRMUPjg2R8=/0x50:3360x2290/1200x800/filters:focal(0x50:3360x2290)/cdn.vox-cdn.com/uploads/chorus_image/image/50010437/usa-today-8821114.0.jpg",
+    "occupation": "Thankful",
+    "location": 5
+  },
+  {
+    "id": 6,
+    "name": "Paul George",
+    "image": "https://cdn.vox-cdn.com/thumbor/InDcsXsrB_r5ZRf6cYvdFvAg2G8=/0x0:5472x3648/1200x800/filters:focal(2517x480:3391x1354)/cdn.vox-cdn.com/uploads/chorus_image/image/58431631/901191766.jpg.0.jpg",
+    "occupation": "Injury",
+    "location": 6
+  },
+  {
+    "id": 7,
+    "name": "Way of Wade",
+    "image": "https://media2.fdncms.com/sfexaminer/imager/miami-heat-guard-dwyane-wade-says-if-there-were-no-salary-cap-in-the-nba-h/u/original/2313656/wade.jpg",
+    "occupation": "Flash",
+    "location": 7
+  },
+  {
+    "id": 8,
+    "name": "Russell Westbrook",
+    "image": "https://roadtosports.com/wp-content/uploads/2018/08/Oklahoma-City-Thunder.jpg",
+    "occupation": "Ladies Man",
+    "location": 8
+  },
+  {
+    "id": 9,
+    "name": "Draymond Green",
+    "image": "https://cdn.vox-cdn.com/thumbor/xSnEzOyXuU3FcYn33bg0vkkcTFc=/0x0:3026x1974/1200x800/filters:focal(1251x197:1735x681)/cdn.vox-cdn.com/uploads/chorus_image/image/60692403/969191766.jpg.0.jpg",
+    "occupation": "Expert Tech",
+    "location": 9
+  },
+  {
+    "id": 10,
+    "name": "Embiid",
+    "image": "https://www2.philly.com/resizer/pvCVHpSoo6PA-PfKlL4f2aFdeFo=/1200x0/center/middle/arc-anglerfish-arc2-prod-pmn.s3.amazonaws.com/public/7OT5UIVMKNHT7MXX26VNDNJJGI.jpg",
+    "occupation": "Green's Friend",
+    "location": 10
+  },
+  {
+    "id": 11,
+    "name": "Mitchell",
+    "image": "https://cdn.vox-cdn.com/thumbor/iYp0t1Mf0wZ3lg9atbEBob0SakI=/0x0:2354x1883/1200x800/filters:focal(1196x158:1572x534)/cdn.vox-cdn.com/uploads/chorus_image/image/58673917/usa_today_10577593.0.jpg",
+    "occupation": "Rook",
+    "location": 11
+  },
+  {
+    "id": 12,
+    "name": "Shaq",
+    "image": "https://cdn.vox-cdn.com/thumbor/VbWKSxDLQvG-XN_Ngsmke67HDDg=/30x12:435x282/1200x800/filters:focal(30x12:435x282)/cdn.vox-cdn.com/uploads/chorus_image/image/20816177/shaq.0.jpg",
+    "occupation": "Ladies Man",
+    "location": 12
+  }
+]
